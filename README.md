@@ -1,2 +1,2 @@
 # KOU-Prolab1-Project4
- Veritabanı Projesi
+Rezervasyon Sınıflandırma Sistemi
